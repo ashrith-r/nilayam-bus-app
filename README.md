@@ -42,7 +42,7 @@ The seeded places include Warangal City Bus Station, Hanamkonda City Bus Station
 
 SIM services and arrival times are generated for demonstration. Publishing an operator delay notice shares the notice with Passenger and Stop Display, but does not recalculate the simulated ETA. Voice search depends on browser support. There is no live vehicle feed, validated arrival prediction, or field-tested queue policy in this prototype.
 
-Sources, attribution, and data notes are listed in [SOURCES.md](SOURCES.md). The bundled Geist and Inter fonts include their license files in `assets/fonts/`.
+Sources, attribution, and data notes are listed in [SOURCES.md](SOURCES.md). The bundled Geist and Geist Mono fonts include their license files in `assets/fonts/`.
 
 ## Project notes
 

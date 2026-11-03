@@ -1,0 +1,35 @@
+# Python environment and bytecode
+.venv/
+__pycache__/
+*.py[cod]
+
+# Build outputs and packaged Windows apps
+/build/
+/dist/
+/release/
+/release-simulation/
+/release-journey/
+*.exe
+*.zip
+
+# Local demo and smoke-test data
+*.sqlite
+*.sqlite3
+*.db
+*.log
+/_*smoke*/
+
+# Impeccable review workspace includes local browser profiles and demo DBs
+/.impeccable/
+
+# Local configuration
+.env
+.env.*
+
+# Private project planning document; keep it local
+/NILAYA_PRODUCT_SPEC.md
+
+# Unused legacy Inter font files
+/assets/fonts/Inter-Variable.ttf
+/assets/fonts/OFL.txt
+
